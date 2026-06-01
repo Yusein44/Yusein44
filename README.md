@@ -15,11 +15,11 @@ I am a third-year Computer and Software Engineering student and a certified Pyth
 
 ### Featured Projects
 
-* **[PetWorld](https://github.com/Yusein44/...)**
+* **[PetWorld](https://github.com/Yusein44/PetWorld_React_js_project.git)**
   Single Page Application built with React and a custom REST API.
-* **[Online Food Delivery](https://github.com/Yusein44/...)**
+* **[Online Food Delivery](https://github.com/Yusein44/new_food_delivery_web.git)**
   Backend-driven food delivery platform powered by Django.
-* **[Subscription Tracker](https://github.com/Yusein44/Subscription_tracker_app26_django)**
+* **[Subscription Tracker](https://github.com/Yusein44/Subscription_tracker_app26_django.git)**
   Custom web application for tracking personal subscriptions and recurring expenses.
 
 ---
